@@ -1,0 +1,24 @@
+@font-face {
+  font-family: 'Cabin-Regular';
+  src: url('Cabin-Regular.eot');
+  src: url('Cabin-Regular.woff2') format('woff2'),
+       url('Cabin-Regular.woff') format('woff'),
+       url('Cabin-Regular.ttf') format('truetype'),
+       url('Cabin-Regular.svg#Cabin-Regular') format('svg'),
+       url('Cabin-Regular.eot?#iefix') format('embedded-opentype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Cabin-Medium';
+  src: url('Cabin-Medium.eot');
+  src: url('Cabin-Medium.woff2') format('woff2'),
+       url('Cabin-Medium.woff') format('woff'),
+       url('Cabin-Medium.ttf') format('truetype'),
+       url('Cabin-Medium.svg#Cabin-Medium') format('svg'),
+       url('Cabin-Medium.eot?#iefix') format('embedded-opentype');
+  font-weight: normal;
+  font-style: normal;
+}
+
